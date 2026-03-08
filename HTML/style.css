@@ -101,8 +101,8 @@ aside{
 /* li:nth-child(even){
 	background-color: #eee;
 } */
-ol li:nth-child(odd){
-		color: red;}
+ol li:nth-child(od){
+		color: red;
 }
 
 article p:first-child{
